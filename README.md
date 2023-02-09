@@ -1,2 +1,1 @@
-# CrypstarterDAO
-Forking Olympus DAO
+# CrypstarterDAO-Frontend
